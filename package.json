@@ -1,0 +1,8 @@
+{
+  "name": "honey-market-registry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bbroeking/honey-market-registry.git",
+  "author": "Brian Broeking <bbroeking456@gmail.com>",
+  "license": "MIT"
+}
