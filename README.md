@@ -4,8 +4,12 @@ To add your market to the offical Honey Finance market registry, open a pull req
 
 ## Example structure
 
+Example
+
 ```
-    VERIFIED_CREATOR=CE3Ue1iv9w6iKpefLW6EE9TSVgUqmLEWZf9wM1ATak7X
-    NFT_ORACLE = 4pqMWyt4LnBvRQRdt9YXmZLRh9xSL4qaVuVjJNpGRL71
-    MARKET_ID = 8LHb3i2ionLbKKqvLUfMnAU5FKyXJiwC8x6ftpGtCK6S
+COLLECTION_NAME=y00ts
+COLLECTION_URL=https://magiceden.io/marketplace/y00ts
+VERIFIED_CREATOR=CE3Ue1iv9w6iKpefLW6EE9TSVgUqmLEWZf9wM1ATak7X
+NFT_ORACLE=4pqMWyt4LnBvRQRdt9YXmZLRh9xSL4qaVuVjJNpGRL71
+MARKET_ID=Cf4QxhvC6N2QTJYiQV4JAZEUfypQzywZdAq1NugEaqQu
 ```
