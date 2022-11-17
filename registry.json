@@ -1,0 +1,30 @@
+[
+  {
+    "COLLECTION_NAME": "Honey Genesis Bees",
+    "COLLECTION_URL": "https://magiceden.io/marketplace/honey_genesis_bee",
+    "VERIFIED_CREATOR": "6vRx1iVZo3xfrBHdpvuwArL2jucVj9j9nLpd2VUTTGMG",
+    "MARKET_ID": "6FcJaAzQnuoA6o3sVw1GD6Ba69XuL5jinZpQTzJhd2R3",
+    "IMG_PATH": "imgs/honey_genesis_bee.png"
+  },
+  {
+    "COLLECTION_NAME": "Burrito Boyz",
+    "COLLECTION_URL": "https://magiceden.io/marketplace/burrito_boyz",
+    "VERIFIED_CREATOR": "LoVExNPPxkeNnyLL8CT4Tuoc69JjTkfpsqcPsragvR4",
+    "MARKET_ID": "F8rZviSSuqgkTsjMeoyrTUSNSqh7yNDCAozJkxm7eujY",
+    "IMG_PATH": "imgs/burrito_boyz.webp"
+  },
+  {
+    "COLLECTION_NAME": "Atadians",
+    "COLLECTION_URL": "https://magiceden.io/marketplace/atadians",
+    "VERIFIED_CREATOR": "4pi2MRDQgGVFwV1Hv8ka7hSSu9TgdFmafk6jtQhrB9HN",
+    "MARKET_ID": "Bxk1JQCbVjpeFnjzvH5n9bepnZeHjRADUFwZiVC7L5Gq",
+    "IMG_PATH": "imgs/atadians.gif"
+  },
+  {
+    "COLLECTION_NAME": "Lifinity Flares",
+    "COLLECTION_URL": "https://magiceden.io/marketplace/burrito_boyz",
+    "VERIFIED_CREATOR": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+    "MARKET_ID": "H2H2pJuccdvpET9A75ajB3GgdYdCUL4T3kiwUMA6DJ7q",
+    "IMG_PATH": "imgs/lifinity.png"
+  }
+]
