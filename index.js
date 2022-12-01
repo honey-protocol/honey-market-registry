@@ -19,8 +19,8 @@ const renamed = data.map((item) => {
     value: 0,
     allowance: 0,
     positions: [],
-    connection: undefined,
-    user: undefined,
+    connection: null,
+    user: null,
     debt: 0,
     utilizationRate: 0,
   };
