@@ -6,6 +6,6 @@
   "author": "Brian Broeking <bbroeking456@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc"
+    "build": "node index.js"
   }
 }

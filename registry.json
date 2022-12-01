@@ -2,6 +2,7 @@
   {
     "COLLECTION_NAME": "Honey Genesis Bees",
     "COLLECTION_URL": "https://magiceden.io/marketplace/honey_genesis_bee",
+    "COLLECTION_KEY": "HNYG",
     "VERIFIED_CREATOR": "6vRx1iVZo3xfrBHdpvuwArL2jucVj9j9nLpd2VUTTGMG",
     "NFT_ORACLE": "Gh5qsBcu69YbZcELwo5MGhVcpL5RUYDKPnn3wPngdEew",
     "MARKET_ID": "6FcJaAzQnuoA6o3sVw1GD6Ba69XuL5jinZpQTzJhd2R3",
@@ -10,6 +11,7 @@
   {
     "COLLECTION_NAME": "Burrito Boyz",
     "COLLECTION_URL": "https://magiceden.io/marketplace/burrito_boyz",
+    "COLLECTION_KEY": "BURR",
     "VERIFIED_CREATOR": "LoVExNPPxkeNnyLL8CT4Tuoc69JjTkfpsqcPsragvR4",
     "NFT_ORACLE": "ZX5uhqNmGX3rcHsQ37n4LhN1yEraS1FZYudQocwD9LX",
     "MARKET_ID": "F8rZviSSuqgkTsjMeoyrTUSNSqh7yNDCAozJkxm7eujY",
@@ -18,6 +20,7 @@
   {
     "COLLECTION_NAME": "OG Atadians",
     "COLLECTION_URL": "https://magiceden.io/marketplace/atadians",
+    "COLLECTION_KEY": "ATD",
     "VERIFIED_CREATOR": "4pi2MRDQgGVFwV1Hv8ka7hSSu9TgdFmafk6jtQhrB9HN",
     "NFT_ORACLE": "pPHUCjfN6dShY2Jf3SEvE5Uq59YRp6HdoY9CgVofZQm",
     "MARKET_ID": "Bxk1JQCbVjpeFnjzvH5n9bepnZeHjRADUFwZiVC7L5Gq",
@@ -26,6 +29,7 @@
   {
     "COLLECTION_NAME": "Lifinity Flares",
     "COLLECTION_URL": "https://magiceden.io/marketplace/lifinity_flares",
+    "COLLECTION_KEY": "LIFINITY",
     "VERIFIED_CREATOR": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
     "NFT_ORACLE": "3Rgzsb37bDznYHSn1zsahaVrdbeBStEkXb26SokkVuzf",
     "MARKET_ID": "H2H2pJuccdvpET9A75ajB3GgdYdCUL4T3kiwUMA6DJ7q",
@@ -34,6 +38,7 @@
   {
     "COLLECTION_NAME": "Smyths",
     "COLLECTION_URL": "https://magiceden.io/marketplace/blocksmith_labs",
+    "COLLECTION_KEY": "BSL",
     "VERIFIED_CREATOR": "8m2b8ar9BNZErJQgSBwY3eCe73yR4k9qHUxxGffxyw2d",
     "NFT_ORACLE": "ZX5uhqNmGX3rcHsQ37n4LhN1yEraS1FZYudQocwD9LX",
     "MARKET_ID": "GrKPvcdHVb4cwR5a2CCgCTvdkSqhNDRgSUiUVzXRWLk6",
