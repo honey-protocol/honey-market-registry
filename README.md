@@ -16,10 +16,11 @@ https://docs.switchboard.xyz/feeds/best-practices
 Example
 
 ```
-COLLECTION_NAME: y00ts
-COLLECTION_URL: https://magiceden.io/marketplace/y00ts
-VERIFIED_CREATOR: CE3Ue1iv9w6iKpefLW6EE9TSVgUqmLEWZf9wM1ATak7X
-NFT_ORACLE: 4pqMWyt4LnBvRQRdt9YXmZLRh9xSL4qaVuVjJNpGRL71
-MARKET_ID: Cf4QxhvC6N2QTJYiQV4JAZEUfypQzywZdAq1NugEaqQu
+COLLECTION_NAME: y00ts,
+COLLECTION_URL: https://magiceden.io/marketplace/y00ts,
+COLLECTION_KEY: "y00t",
+VERIFIED_CREATOR: CE3Ue1iv9w6iKpefLW6EE9TSVgUqmLEWZf9wM1ATak7X,
+NFT_ORACLE: 4pqMWyt4LnBvRQRdt9YXmZLRh9xSL4qaVuVjJNpGRL71,
+MARKET_ID: Cf4QxhvC6N2QTJYiQV4JAZEUfypQzywZdAq1NugEaqQu,
 IMG_PATH: /imgs/<name of your file>
 ```
