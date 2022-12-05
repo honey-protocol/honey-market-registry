@@ -6,7 +6,8 @@
     "VERIFIED_CREATOR": "6vRx1iVZo3xfrBHdpvuwArL2jucVj9j9nLpd2VUTTGMG",
     "NFT_ORACLE": "Gh5qsBcu69YbZcELwo5MGhVcpL5RUYDKPnn3wPngdEew",
     "MARKET_ID": "6FcJaAzQnuoA6o3sVw1GD6Ba69XuL5jinZpQTzJhd2R3",
-    "IMG_PATH": "imgs/honey_genesis_bee.png"
+    "IMG_PATH": "imgs/honey_genesis_bee.png",
+    "DISCOUNTED_MARKET": false
   },
   {
     "COLLECTION_NAME": "Burrito Boyz",
@@ -15,7 +16,8 @@
     "VERIFIED_CREATOR": "LoVExNPPxkeNnyLL8CT4Tuoc69JjTkfpsqcPsragvR4",
     "NFT_ORACLE": "ZX5uhqNmGX3rcHsQ37n4LhN1yEraS1FZYudQocwD9LX",
     "MARKET_ID": "F8rZviSSuqgkTsjMeoyrTUSNSqh7yNDCAozJkxm7eujY",
-    "IMG_PATH": "imgs/burrito_boyz.webp"
+    "IMG_PATH": "imgs/burrito_boyz.webp",
+    "DISCOUNTED_MARKET": false
   },
   {
     "COLLECTION_NAME": "OG Atadians",
@@ -24,7 +26,8 @@
     "VERIFIED_CREATOR": "4pi2MRDQgGVFwV1Hv8ka7hSSu9TgdFmafk6jtQhrB9HN",
     "NFT_ORACLE": "pPHUCjfN6dShY2Jf3SEvE5Uq59YRp6HdoY9CgVofZQm",
     "MARKET_ID": "Bxk1JQCbVjpeFnjzvH5n9bepnZeHjRADUFwZiVC7L5Gq",
-    "IMG_PATH": "imgs/atadians.gif"
+    "IMG_PATH": "imgs/atadians.gif",
+    "DISCOUNTED_MARKET": true
   },
   {
     "COLLECTION_NAME": "Lifinity Flares",
@@ -33,7 +36,8 @@
     "VERIFIED_CREATOR": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
     "NFT_ORACLE": "3Rgzsb37bDznYHSn1zsahaVrdbeBStEkXb26SokkVuzf",
     "MARKET_ID": "H2H2pJuccdvpET9A75ajB3GgdYdCUL4T3kiwUMA6DJ7q",
-    "IMG_PATH": "imgs/lifinity.png"
+    "IMG_PATH": "imgs/lifinity.png",
+    "DISCOUNTED_MARKET": true
   },
   {
     "COLLECTION_NAME": "Smyths",
@@ -42,6 +46,7 @@
     "VERIFIED_CREATOR": "8m2b8ar9BNZErJQgSBwY3eCe73yR4k9qHUxxGffxyw2d",
     "NFT_ORACLE": "ZX5uhqNmGX3rcHsQ37n4LhN1yEraS1FZYudQocwD9LX",
     "MARKET_ID": "GrKPvcdHVb4cwR5a2CCgCTvdkSqhNDRgSUiUVzXRWLk6",
-    "IMG_PATH": "imgs/smyths.png"
+    "IMG_PATH": "imgs/smyths.png",
+    "DISCOUNTED_MARKET": true
   }
 ]

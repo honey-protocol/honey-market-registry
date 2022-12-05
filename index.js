@@ -14,6 +14,7 @@ const renamed = data.map((item) => {
     nftOracle: item.NFT_ORACLE,
     collectionUrl: item.COLLECTION_URL,
     imgPath: item.IMG_PATH,
+    discountedMarket: item.DISCOUNTED_MARKET,
     rate: 0,
     available: 0,
     value: 0,
