@@ -48,5 +48,35 @@
     "MARKET_ID": "GrKPvcdHVb4cwR5a2CCgCTvdkSqhNDRgSUiUVzXRWLk6",
     "IMG_PATH": "imgs/smyths.png",
     "DISCOUNTED_MARKET": true
+  },
+  {
+    "COLLECTION_NAME": "Vandals",
+    "COLLECTION_URL": "https://magiceden.io/marketplace/blocksmith_labs",
+    "COLLECTION_KEY": "VC",
+    "VERIFIED_CREATOR": "8wACNDCJiPVVxfrFJRUYkJx4hQgvcoZggMXKmNvjQ6R7",
+    "NFT_ORACLE": "FQ6E6beCM2aQZSQRdA3mmu2h2MZJvZ89nG9Phw2RBjVs",
+    "MARKET_ID": "2dxJ4eMkhMxm1ZqpAhKsjunvyziuq1JRnuHaqKFRY8et",
+    "IMG_PATH": "imgs/vandals.webp",
+    "DISCOUNTED_MARKET": true
+  },
+  {
+    "COLLECTION_NAME": "Trippin Ape Tribe",
+    "COLLECTION_URL": "https://magiceden.io/marketplace/trippin_ape_tribe",
+    "COLLECTION_KEY": "TAT",
+    "VERIFIED_CREATOR": "EZcZTsLpvdisPgQy5TcCALYgmGKRMNvvyJ89t1LFWmum",
+    "NFT_ORACLE": "FLWdDrqoLdKPs8irahdxSmnov2hsf6P9assbJBbts8Hs",
+    "MARKET_ID": "D5qrmgTLJwarfkkqktguUp5uPfj83hFHuWKLvMNSWJ5w",
+    "IMG_PATH": "imgs/trippin-ape-tribe.webp",
+    "DISCOUNTED_MARKET": true
+  },
+  {
+    "COLLECTION_NAME": "Droid Capital",
+    "COLLECTION_URL": "https://magiceden.io/marketplace/droid_capital",
+    "COLLECTION_KEY": "DD",
+    "VERIFIED_CREATOR": "C88kKdEmTrCh43GC1w3BUFLsW3oKMEWWBGCyweQAaEYa",
+    "NFT_ORACLE": "4jgF36apDmkvx2B2w7GFJEgEtSWftduwkGu2NwsEY1va",
+    "MARKET_ID": "GAqyPziKPwVpwKaeqPhEsxiy6MwQ2bvtodruWErpLVKo",
+    "IMG_PATH": "imgs/droid-capital.webp",
+    "DISCOUNTED_MARKET": true
   }
 ]
