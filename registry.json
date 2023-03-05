@@ -78,5 +78,15 @@
     "MARKET_ID": "GAqyPziKPwVpwKaeqPhEsxiy6MwQ2bvtodruWErpLVKo",
     "IMG_PATH": "imgs/droid-capital.webp",
     "DISCOUNTED_MARKET": true
-  }
+  },
+  {
+    "COLLECTION_NAME": "Cogent Cogs",
+    "COLLECTION_URL": "https://magiceden.io/marketplace/cogent_cogs",
+    "COLLECTION_KEY": "CCOG",
+    "VERIFIED_CREATOR": "Cog6gsN1ywEEgt9GsexK5zfYw1XebtMDyj3PHuTnzNFT",
+    "NFT_ORACLE": "9JzNCSR6GNvfQSA77pw2dURSbi7Ae8pm7PGTzj23NWtC",
+    "MARKET_ID": "4cSkVqPDqWUcKMDXwhENnURLpQncsyjTiRDrjvFmW2e5",
+    "IMG_PATH": "imgs/cogent-cog.webp",
+    "DISCOUNTED_MARKET": true
+  },
 ]
